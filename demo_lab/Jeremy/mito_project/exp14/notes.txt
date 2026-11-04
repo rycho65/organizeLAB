@@ -1,0 +1,2 @@
+Experiment 14 notes
+Baseline run, controls only. Dye batch was old, repeat in exp15.

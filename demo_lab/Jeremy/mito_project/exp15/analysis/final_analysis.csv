@@ -1,0 +1,4 @@
+sample_id,experiment,condition,timepoint_h,replicate,fluorescence_au,timestamp
+H48-mean-1,exp15,Hypoxia,48,1,830.6,2026-10-18T11:00:00
+H48-mean-2,exp15,Hypoxia,48,2,831.1,2026-10-18T11:00:00
+H48-mean-3,exp15,Hypoxia,48,3,852.2,2026-10-18T11:00:00
